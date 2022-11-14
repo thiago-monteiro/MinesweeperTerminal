@@ -1,0 +1,15 @@
+C:\Users\lcorm\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\bin\Debug\Very Good Minesweeper.exe.config
+C:\Users\lcorm\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\bin\Debug\Very Good Minesweeper.exe
+C:\Users\lcorm\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\bin\Debug\Very Good Minesweeper.pdb
+C:\Users\lcorm\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.csprojAssemblyReference.cache
+C:\Users\lcorm\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\lcorm\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.exe
+C:\Users\lcorm\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.pdb
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\bin\Debug\Very Good Minesweeper.exe.config
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\bin\Debug\Very Good Minesweeper.exe
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\bin\Debug\Very Good Minesweeper.pdb
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.exe
+C:\Users\Thiago Monteiro\Documents\Coder Backup\PC and Mac Apps\Learning Languages\Very Good Minesweeper\Very Good Minesweeper\obj\Debug\Very Good Minesweeper.pdb
